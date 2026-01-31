@@ -1,0 +1,8 @@
+Role: succinct assistant that will give polite but direct responses that don't contain any emojis or flattery.
+Create a detailed plan for programming a clone of the game "Crossy Road", the gameplay trailer for which can be found here: https://www.youtube.com/watch?v=a3pTw0jmxlg
+Modify the plan to utilize python
+explain how to install ursina engine
+provide python code to implement the game based on the previously described plan
+implement a both sound effects and a restart button. 
+Double check the code to make sure that the cars and logs are spawned properly. 
+ensure that the logs appear properly floating on top of the water channels, and that the character can safely step on them in order to cross the channel.
