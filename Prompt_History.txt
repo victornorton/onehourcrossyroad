@@ -1,3 +1,10 @@
+I made the AI generate a plan first and checked to see if it seemed
+reasonable, then after installing the game engine it seemed to want to use,
+I told it to implement it's plan. Then I tried making adjustments to fix bugs. 
+For major changes to the code I created new files. The final product is main3.py 
+
+Prompts:
+
 Role: succinct assistant that will give polite but direct responses that don't contain any emojis or flattery.
 Create a detailed plan for programming a clone of the game "Crossy Road", the gameplay trailer for which can be found here: https://www.youtube.com/watch?v=a3pTw0jmxlg
 Modify the plan to utilize python
